@@ -5,7 +5,7 @@ import java.awt.*;
 public class CirculoDibujable extends Circulo implements figuraDibujable{
 
     private int x;
-    private  int y;
+    private int y;
 
     public CirculoDibujable(double valor, int x, int y )
     {
